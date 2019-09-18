@@ -5,7 +5,7 @@ MCM is a contest where teams of undergraduates use mathematical modeling to pres
 Mathematical Contest in Modeling (MCM), an international contest for high school students and college undergraduates. It challenges teams of students to clarify, analyze, and propose solutions to open-ended problems. The contest attracts diverse students and faculty advisors from over 900 institutions around the world.
 
 Honor: Meritorious Winner honor
-
+https://drive.google.com/open?id=17p0GeIgU6WiYN9Y47-ScWqyyCldjBEBJ
 Issuer: MCM/ICM Coordinator COMAP
 
 # Problem
